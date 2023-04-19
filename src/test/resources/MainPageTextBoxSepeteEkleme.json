@@ -1,0 +1,80 @@
+[
+  {
+    "key": "HepsiBuradaAramaTextbox",
+    "androidValue": "com.pozitron.hepsiburada:id/etSearchBox",
+    "androidType": "id"
+
+  },
+  {
+    "key": "HepsiBuradaAramaButton",
+    "androidValue": "Arama",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "HepsiBuradaSeçiliÜrünSepeteEklemeButtonu",
+    "androidValue": "(//android.widget.Button[@content-desc=\"Sepete Ekle\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiBuradaSayfadaSeçiliÜrünKontrol",
+    "androidValue": "(//android.widget.ImageView[@content-desc=\"ürün fotoğrafı\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "HepsiBuradaSepeteGitButton",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Sepetim, 2 new notification\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+
+  },
+  {
+    "key": "HepsiBuradaSepetÜrünKontrol",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[3]/android.view.View",
+    "androidType": "xpath"
+
+  },
+  {
+    "key": "UrunFiltreButton",
+    "androidValue": "com.pozitron.hepsiburada:id/tv_product_list_options_bar_filter",
+    "androidType": "id"
+  },
+  {
+    "key": "MarkayaGoreFiltrele",
+    "androidValue": "Marka",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "JBLFiltrele",
+    "androidValue": "//android.widget.LinearLayout[@content-desc=\"JBL\"]/android.view.ViewGroup/android.widget.CheckBox",
+    "androidType": "xpath"
+  },
+  {
+    "key": "FiltreUygulaButton",
+    "androidValue": "com.pozitron.hepsiburada:id/btn_filters_apply",
+    "androidType": "id"
+  },
+  {
+    "key": "FiltreSonrasıUrunleriGor",
+    "androidValue": "com.pozitron.hepsiburada:id/btn_filters_main_close",
+    "androidType": "id"
+  },
+  {
+    "key": "SecilenUrunFavoriEkleButton",
+    "androidValue": "(//android.widget.CheckBox[@content-desc=\"favoriye ekle\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SecilenUrunSepeteEkleButton",
+    "androidValue": "(//android.widget.Button[@content-desc=\"Sepete Ekle\"])[1]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SecilenUrunPembeRenkSec",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"Renk Pembe ve 1.185,00 TL\"]/android.widget.TextView[2]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "SecilenUrunSepeteEkle",
+    "androidValue": "com.pozitron.hepsiburada:id/atcb_product_variant",
+    "androidType": "id"
+  }
+]

@@ -1,15 +1,32 @@
-Qatar_Airway
+Hepsi Burada
 =====================
 
-Qatar_Airways
--------------------------
-* Qatar airways uygulamasi acilir,uygulamanin acildigi kontrol edilir
-* Karsilama ekrani skip secenegi ile gecilir
-* Alt menuden Book tabina gecis yapilir,seyahat tipi olarak One Way secilir
-* Kalkis havaalani olarak "Berlin",varis havaalani olarak "Istanbul" secilir
-* Bugunun tarihi+7 gun olarak bir gidis tarihi secilir,arama butonuna tiklanir
-* Arama alanina tiklanir,ucus secim ekraninin geldigi kontrol edilir
-* Rastgele bir ucus secilir,economy class secenegine tiklanir
-* Ucus secim ekranindaki ucus saati ile ucus detaylari ekranindaki ucus saati degerinin ayni oldugu kontrol edilir
+HepsiBurada UyeOl
+----------------
 
+*HepsiBurada ana ekrandan sonra uye ol sayfasi acilir
 
+HepsiBurada Login
+----------------
+*HepsiBurada UyeOlduktan sonra Login islemi yapilir
+
+HepsiBurada Anasayfa Textboxla Urun Ekleme
+----------------
+*HepsiBurada anasayfasi giris sonrası acilir,uygulamanin acildigi kontrol edilir
+*Arama kutusuna tiklanir, kulaklik aratilir
+*Filtreleme yapilir ve ona göre tekrar aratilir
+*Filtreleme sonrasi secilen urun favorilere ve sepete eklenir
+*Ekleme Sonrası Sepetime gidilir
+
+HepsiBurada Anasayfa Kategoriler ile Sepete Ekleme
+-----------------
+*Kategorilere gidilir gereken yol izlenir secilen kategoriden secilen urunu sepete ekleme islemi yapilir
+
+HepsiBurada Anasayfa Favoriler ile Sepete Ekleme
+-----------------
+*Ekleme Sonrası Favorilerime gidilir ve ordan da sepete ekleme islemi yapilir
+
+HepsiBurada Sepete Gitme Adres Bilgileri ve Ödeme Ekranına Gitme
+-----------------
+*Eklemeler sonrası sepete tekrar gidilir, alısveris tamamlanır
+*Adres Bilgileri kaydedilir ve odemeye gidilir

@@ -1,0 +1,73 @@
+[
+  {
+    "key": "HepsiBuradaHomepage",
+    "androidValue": "com.pozitron.hepsiburada:id/image_message_of_day",
+    "androidType": "id"
+
+  },
+  {
+    "key": "HepsiBuradaKullanıcıButton",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "HepsiBuradaUyeOlButton",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyeOlButtonKontrol",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  },
+  {
+    "key": "UyeOlEpostaTextbox",
+    "androidValue": "txtEmail",
+    "androidType": "id"
+  },
+  {
+    "key": "UyeOlmaIcınDevamEtButton",
+    "androidValue":"btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key": "DoğrulamaSonrasıDevamEtButton",
+    "androidValue": "btnSignUpSubmit",
+    "androidType": "id"
+  },
+  {
+    "key" : "UyeOlmaAd",
+    "value" : "txtName",
+    "type" : "id"
+  },
+  {
+    "key" : "UyeOlmaSoyad",
+    "value" : "txtSurname",
+    "type" : "id"
+  },
+  {
+    "key" : "UyeOlmaSifre",
+    "value" : "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText",
+    "type" : "xpath"
+  },
+  {
+    "key" : "RızaMetniOnayı",
+    "value" : "checkSubscribeEmail",
+    "type" : "id"
+  },
+  {
+    "key" : "ÜyeOlButonu",
+    "value" : "btnSignUpSubmit",
+    "type" : "id"
+  },
+  {
+    "key": "HosgeldinizPopupKontrol",
+    "androidValue": "android:id/message",
+    "androidType": "id"
+  },
+  {
+    "key": "HosgeldinizPopupTamamButton",
+    "androidValue": "android:id/button1",
+    "androidType": "id"
+  }
+]

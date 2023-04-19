@@ -1,0 +1,12 @@
+[
+  {
+    "key": "TekrarLoginOlmakiçinKullanıcıButton",
+    "androidValue": "Hesabım",
+    "androidType": "accessibility id"
+  },
+  {
+    "key": "CikisYapButton",
+    "androidValue": "//android.view.ViewGroup[@content-desc=\"account_menu_button_13\"]/android.view.ViewGroup/android.widget.Button",
+    "androidType": "xpath"
+  }
+]

@@ -1,0 +1,14 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# HepsiBurada UyeOlduktan sonra Login islemi yapilir
+* "com.pozitron.hepsiburada:id/account_menu_button_container" li element gorunur olana kadar bekle
+* "com.pozitron.hepsiburada:id/account_menu_button_container" id'li elemente tikla
+*"Hesabım" id'li elemente tikla
+*"//android.view.ViewGroup[@content-desc='account_menu_button_1']/android.view.ViewGroup/android.widget.Button" xpath'li elemente tikla
+*"txtUsername" id'li elemente "aycacerend123456@gmail.com" text degerini gonder
+*"btnLogin" id'li elemente tikla
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[4]/android.view.View/android.widget.EditText" xpath'li elemente tikla
+*"btnEmailSelect" li element gorunur olana kadar bekle
+*"btnEmailSelect" id'li elemente tikla
+

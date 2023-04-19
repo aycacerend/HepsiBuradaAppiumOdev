@@ -1,0 +1,52 @@
+Created by acd on 17.04.2023
+
+
+# HepsiBurada anasayfasi giris sonrası acilir,uygulamanin acildigi kontrol edilir
+
+*"android:id/button1" li element gorunur olana kadar bekle
+*"android:id/button1" id'li elemente tikla
+*"Hesabım ekranını kapat" li element gorunur olana kadar bekle
+*"Hesabım ekranını kapat" id'li elemente tikla
+* "com.pozitron.hepsiburada:id/image_message_of_day" li element gorunur olana kadar bekle
+* "com.pozitron.hepsiburada:id/image_message_of_day" li elementin oldugu kontrol edilir
+
+
+# Arama kutusuna tiklanir, kulaklik aratilir
+
+* "com.pozitron.hepsiburada:id/etSearchBox" id'li elemente tikla
+*"com.pozitron.hepsiburada:id/etSearchBox" id'li elemente "kulaklik" text degerini gonder
+* "Arama" id'li elemente tikla
+
+
+# Filtreleme yapilir ve ona göre tekrar aratilir
+*"com.pozitron.hepsiburada:id/tv_product_list_options_bar_filter" id'li elemente tikla
+*"Marka" li element gorunur olana kadar bekle
+*"Marka" id'li elemente tikla
+*"//android.widget.LinearLayout[@content-desc=\"JBL\"]/android.view.ViewGroup/android.widget.CheckBox" xpath'li element gorunur olana kadar bekle
+*"//android.widget.LinearLayout[@content-desc=\"JBL\"]/android.view.ViewGroup/android.widget.CheckBox" xpath'li elemente tikla
+*"com.pozitron.hepsiburada:id/btn_filters_apply" id'li elemente tikla
+*"com.pozitron.hepsiburada:id/btn_filters_main_close" li element gorunur olana kadar bekle
+
+# Filtreleme sonrasi secilen urun favorilere ve sepete eklenir
+
+*"com.pozitron.hepsiburada:id/btn_filters_main_close" li element gorunur olana kadar bekle
+*"(//android.widget.CheckBox[@content-desc=\"favoriye ekle\"])[1]" xpath'li elemente tikla
+*"(//android.widget.Button[@content-desc=\"Sepete Ekle\"])[1]" xpath'li elemente tikla
+* "//android.view.ViewGroup[@content-desc=\"Renk Pembe ve 1.185,00 TL\"]/android.widget.TextView[2]" xpath'li element gorunur olana kadar bekle
+*"//android.view.ViewGroup[@content-desc=\"Renk Pembe ve 1.185,00 TL\"]/android.widget.TextView[2]" xpath'li elemente tikla
+*"com.pozitron.hepsiburada:id/atcb_product_variant" id'li elemente tikla
+
+# Ekleme Sonrası Sepetime gidilir
+* "//android.widget.FrameLayout[@content-desc='Sepetim, 1 new notification']/android.widget.FrameLayout/android.widget.ImageView" xpath'li elemente tikla
+* "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1])/android.view.ViewGroup/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[2]/android.view.View[1]/android.view.View/android.widget.ListView/android.view.View/android.view.View/android.view.View[3]/android.view.View" xpath'li element gorunur olana kadar bekle
+
+
+
+
+
+
+
+
+
+
+

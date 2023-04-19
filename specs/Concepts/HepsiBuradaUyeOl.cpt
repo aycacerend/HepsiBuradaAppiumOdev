@@ -1,0 +1,26 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# HepsiBurada ana ekrandan sonra uye ol sayfasi acilir
+*  "com.pozitron.hepsiburada:id/image_message_of_day" li element gorunur olana kadar bekle
+* "Hesabım" id'li elemente tikla
+*"//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button" xpath'li element gorunur olana kadar bekle
+*"//android.view.ViewGroup[@content-desc=\"account_menu_button_0\"]/android.view.ViewGroup/android.widget.Button" xpath'li elemente tikla
+*"txtEmail" id'li elemente tikla
+*"txtEmail" id'li elemente "aycacerend123456@gmail.com" text degerini gonder
+*"btnSignUpSubmit" id'li elemente tikla
+//Manuel Doğrulama Yap
+*"btnSignUpSubmit" id'li elemente tikla
+*"txtName" id'li elemente tikla
+*"txtName" id'li elemente "Ayca" text degerini gonder
+*"txtSurname" id'li elemente tikla
+*"txtSurname" id'li elemente "Dincer" text degerini gonder
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText" xpath'li elemente tikla
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.ScrollView/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View[3]/android.view.View[3]/android.widget.EditText" xpath'li elemente "AyCa6842" text degerini gonder
+*"checkSubscribeEmail" id'li elemente tikla
+*"btnSignUpSubmit" id'li elemente tikla
+*"android:id/message" li element gorunur olana kadar bekle
+*"android:id/button1" id'li elemente tikla
+*"Hesabım" li element gorunur olana kadar bekle
+*"Hesabım" id'li elemente tikla
+*"//android.view.ViewGroup[@content-desc=\"account_menu_button_13\"]/android.view.ViewGroup/android.widget.Button" xpath'li elemente tikla

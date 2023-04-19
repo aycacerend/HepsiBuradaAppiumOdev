@@ -1,0 +1,8 @@
+Created by testinium on 19.04.2023
+
+This is a concept file with following syntax for each concept.
+# Ekleme Sonrası Favorilerime gidilir ve ordan da sepete ekleme islemi yapilir
+*"//android.widget.FrameLayout[@content-desc=\"Listelerim\"]/android.widget.FrameLayout/android.widget.ImageView" xpath'li elemente tikla
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View[3]/android.view.View/android.view.View[1]/android.widget.Button[1]" xpath'li element gorunur olana kadar bekle
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.webkit.WebView/android.webkit.WebView/android.view.View[3]/android.view.View/android.view.View[1]/android.widget.Button[1]" xpath'li elemente tikla
+*"/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[1]/android.webkit.WebView/android.webkit.WebView/android.view.View/android.widget.ListView/android.view.View/android.widget.Button" xpath'li elemente tikla
